@@ -21,3 +21,11 @@
 8. Chung, V. Y. et al. GRHL2–miR-200–ZEB1 maintains the epithelial status of ovarian cancer through transcriptional regulation and histone modification. Sci. Rep. 6, 19943 (2016).
 9. Jolly, M. K. et al. Inflammatory breast cancer: a model for investigating cluster-based dissemination. NPJ Breast Cancer 3, 21 (2017).
 10. Subbalakshmi, A. R., Sahoo, S., Biswas, K. & Jolly, M. K. A computational systems biology approach identifies SLUG as a mediator of partial epithelial–mesenchymal transition (EMT). Cells Tissues Organs 211, 689–702 (2021).
+---
+## effects of noise on cellular plasticity
+1. Jain, P., Bhatia, S., Thompson, E. W. & Jolly, M. K. Population dynamics of epithelialmesenchymal heterogeneity in cancer cells. Biomolecules https://doi.org/10.3390/ biom12030348 (2022).
+2. Tripathi, S., Chakraborty, P., Levine, H. & Jolly, M. K. A mechanism for epithelialmesenchymal heterogeneity in a population of cancer cells. PLoS Comput. Biol. 16, e1007619 (2020).
+3. Jia, W. et al. Epigenetic feedback and stochastic partitioning during cell division can drive resistance to EMT. Oncotarget 11, 2611–2624 (2020).
+4. Wang, Q., Holmes, W. R., Sosnik, J., Schilling, T. & Nie, Q. Cell sorting and noise-induced cell plasticity coordinate to sharpen boundaries between gene expression domains. PLoS Comput. Biol. 13, e1005307 (2017). Using computational modelling, this study proposes that boundary sharpening during developmental segmentation depends on adhesion-based and repulsion-based cell sorting, as well as noise-induced cell state transitions.
+5. Sosnik, J. et al. Noise modulation in retinoic acid signaling sharpens segmental boundaries of gene expression in the embryonic zebrafish hindbrain. eLife 5, e14034 (2016).
+6. Zhang, L. et al. Noise drives sharpening of gene expression boundaries in the zebrafish hindbrain. Mol. Syst. Biol. 8, 613 (2012).
